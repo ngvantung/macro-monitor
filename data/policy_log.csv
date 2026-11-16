@@ -1,0 +1,6 @@
+date,authority,instrument,old_value,new_value,change,note,source_url,run_id
+2026-09-16,Fed,Fed funds target range,3.50-3.75%,3.75-4.00%,+25bp,vote 12-0,https://www.federalreserve.gov,2026-11-16_W3
+2026-10-28,Fed,Fed funds target range,3.75-4.00%,3.75-4.00%,0,vote 10-2 (2 dissents for +25bp),https://www.federalreserve.gov,2026-11-16_W3
+2026-11-06,SBV,Central rate,,25615,,reference level,https://www.sbv.gov.vn,2026-11-16_W3
+2026-11-11,SBV,Central rate,25615,25611,-4,,https://www.sbv.gov.vn,2026-11-16_W3
+2026-12-01,SBV,LDR cap (Circular 50/2026),85%,95%,+10pp,effective 01/12/2026; exempt if LCR & NSFR>=100%,https://www.sbv.gov.vn,2026-11-16_W3
