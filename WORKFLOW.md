@@ -36,9 +36,9 @@ Phiên bản 1.0 · Áp dụng cho: Việt Nam, Mỹ, quốc tế (TQ, Eurozone,
 
 | Agent | Phạm vi | Model khuyến nghị | Đầu ra |
 |---|---|---|---|
-| `vn-data-collector` | GDP, CPI, IIP, bán lẻ, PMI VN, tín dụng, M2, XNK, FDI, đầu tư công, NSNN | sonnet | `02_raw_vn.md` |
+| `vn-data-collector` | GDP, CPI, IIP, bán lẻ, PMI VN, tín dụng, M2, XNK, FDI | sonnet | `02_raw_vn.md` |
 | `global-data-collector` | Lạm phát, việc làm, tăng trưởng, nhà ở Mỹ; PMI TQ/EU, Ifo, EIA, IMF | sonnet | `02_raw_global.md` |
-| `policy-tracker` | Công cụ CSTT NHNN, CSTK, FOMC/dot plot/phát biểu Fed, ECB, PBoC, OPEC+ | sonnet | `02_raw_policy.md` |
+| `policy-tracker` | Công cụ CSTT NHNN, CSTK (NSNN, đầu tư công, thuế, TPCP), FOMC/dot plot/phát biểu Fed, ECB, PBoC, OPEC+ | sonnet | `02_raw_policy.md` |
 | `market-monitor` | UST 2Y/10Y, DXY, FedWatch, vàng, dầu, USD/VND, liên NH, TPCP VN, VN-Index, khối ngoại | sonnet | `02_raw_market.md` |
 | `fact-checker` | Kiểm chứng mọi con số trong 02_raw_* | sonnet | `03_verification.md` |
 | `macro-analyst` | Xu hướng, tương quan, lan truyền, kịch bản, hàm ý ngành | opus | `04_analysis.md` |

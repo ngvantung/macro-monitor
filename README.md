@@ -25,6 +25,8 @@ Hệ thống agent (Claude Code) theo dõi và phân tích kinh tế vĩ mô **V
 
 Quy trình chuẩn S1→S7 với 4 cổng chất lượng G1→G4: xem **`WORKFLOW.md`**.
 
+📘 **Tài liệu đầy đủ** (hệ sinh thái, thành phần, thư viện prompt, lộ trình triển khai): **[`docs/HUONG-DAN.md`](docs/HUONG-DAN.md)**.
+
 ## Cách chạy
 Mở thư mục repo bằng Claude Code (máy local, app desktop hoặc claude.ai/code), rồi gõ:
 
